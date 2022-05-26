@@ -9,8 +9,7 @@
 
 
  **脚本的视频教程** 
-- 视频教程下载地址一  https://mbg.lanzoui.com/b00zag78h     
-- 视频教程下载地址二  https://gitee.com/baoge2010/jb/releases/all   
+- 请到微信公众号： ckjlapp  上面看
                   
 
  **每个脚本对应的目标旧版本APP** 
